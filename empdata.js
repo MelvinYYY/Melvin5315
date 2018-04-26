@@ -7,23 +7,18 @@
     },
     {
       "name": "Kevin Shields",
-      "email": "kevin@4ad.com"
+      "email": "kevin@4ad.com",
       "office": "Dublin"
     },
     {
       "name": "Marika Hackman",
-      "email": "mar@subpop.com"
+      "email": "marika@subpop.com",
       "office": "London"
     },
     {
-      "name": "Rachel Goswell",
-      "email": "rachel@4ad.com",
-      "office": "London"
-    },
-    {
-      "name": "Courtney Barnett",
-      "email": "courtney@mompop.com",
-      "office": "Melbourne"
+      "name": "Laura Gibson",
+      "email": "laura@subpop.com",
+      "office": "Portland"
     },
     {
       "name": "Angel Olsen",
@@ -31,14 +26,9 @@
       "office": "New York"
     },
     {
-      "name": "Jake Bugg",
-      "email": "jake@subpop.com",
+      "name": "Rachel Goswell",
+      "email": "rachel@4ad.com",
       "office": "London"
-    },
-    {
-      "name": "Laura gibson",
-      "email": "laura@subpop.com",
-      "office": "Portland"
     }
   ]
 }

@@ -2,43 +2,43 @@
   "data": [
     {
       "name": "Julia Holter",
-      "email": "julia@domino.com"
-      "office": "L.A",
+      "email": "julia@domino.com",
+      "office": "L.A"
     },
     {
       "name": "Kevin Shields",
       "email": "kevin@4ad.com"
-      "office": "Dublin",
+      "office": "Dublin"
     },
     {
       "name": "Marika Hackman",
       "email": "mar@subpop.com"
-      "office": "London",
+      "office": "London"
     },
     {
       "name": "Rachel Goswell",
-      "email": "rachel@4ad.com"
-      "office": "London",
+      "email": "rachel@4ad.com",
+      "office": "London"
     },
     {
       "name": "Courtney Barnett",
-      "email": "courtney@mompop.com"
-      "office": "L.A",
+      "email": "courtney@mompop.com",
+      "office": "Melbourne"
     },
     {
       "name": "Angel Olsen",
-      "email": "angel@jagjaguwar.com"
-      "office": "New York",
+      "email": "angel@jagjaguwar.com",
+      "office": "New York"
     },
     {
       "name": "Jake Bugg",
-      "email": "jake@subpop.com"
-      "office": "London",
+      "email": "jake@subpop.com",
+      "office": "London"
     },
     {
       "name": "Laura gibson",
-      "email": "laura@subpop.com"
-      "office": "Portland",
+      "email": "laura@subpop.com",
+      "office": "Portland"
     }
   ]
 }
